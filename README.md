@@ -1,1 +1,1 @@
-# Printing-sin-series-sum-upto-n-terms-in-python
+# Printing-sin-series-sum-upto-n-terms-through-functions-in-python
